@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgray;
+}
+button{
+    border: rgb(174, 173, 173) 1px solid;
+    color: white;
+    background-color: rgb(41, 41, 117);
+    padding: 10px 20px;
+    margin: 5px;
+}
+.text-center{
+    text-align: center;
+}
+.m-auto{
+    margin: auto;
+}
+.m-block{
+    margin-block: 20px;
+}
+.p-10{
+    padding: 10px;
+}
+.bg-color-navy{
+    background-color: navy;
+}
+.bg-color-white{
+    background-color: white;
+}
+
+.text-color-white{
+    color: white;
+}
+.m-20{
+    margin: 0px 20px;
+}
+.w-100{
+    width: 100%;
+}
+
+.w-80{
+    width: 80%;
+}
+.w-25{
+    width: 25%;
+}
+.w-10{
+    width: 10%;
+}
+.w-5{
+    width: 5%
+}
+
+.border-rad{
+    border-radius: 20px;
+}
+.border-rad-50{
+    border-radius: 50%;
+}
+
+.p-20{
+    padding: 20px;
+}
+
+h2{
+    margin: 0;
+}
+.c-navy{
+    color: navy;
+}
+.f-size{
+    font-size: 18px;
+}
+.fl-right{
+    float: right;
+}
+.fl-left{
+    float: left;
+}
+.clear-fix{
+    clear: both;
+}
+#vip{
+background-color: navy;
+color: white;
+padding: 10px 20px;
+margin: 5px;
+border-radius: 20px;
+border: none;
+}
+.b-bottom{
+    border-bottom:rgb(30, 23, 236) 1px solid;
+}
+.bg-color-gray{
+    background-color: lightgray;
+}
+.experince h2{
+    margin: 0 0 20px 0;
+}
+.border-left{
+    border-left: 3px navy solid;
+}
+
+.contact-me h2{
+    border-bottom: white solid 1px;
+}
